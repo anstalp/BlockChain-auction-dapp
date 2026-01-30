@@ -4,7 +4,8 @@
 
 > **Σημείωση:** Σύμφωνα με τις οδηγίες της εργασίας, το παρόν αποθετήριο περιέχει αποκλειστικά την **τελική έκδοση (production build)** της εφαρμογής. Ο πηγαίος κώδικας (`.sol` και `.js`) παραδίδεται ξεχωριστά στην πλατφόρμα του μαθήματος.
 
-## 🔗 Σύνδεσμος Συμβολαίου
+## 🔗 Σύνδεσμος Συμβολαίου & App
+- **App** https://dweb.link/ipfs/bafybeicrn6uv6s5dxm5pofzq2ujpkjreywc72zdft2vczqnx3ntjfrek7i/
 - **Smart Contract (Sepolia):** [0xdEbe2Da1739a5E0fcb6a557b530243594118093A](https://sepolia.etherscan.io/address/0xdEbe2Da1739a5E0fcb6a557b530243594118093A)
 
 ##  Λειτουργικότητα
@@ -30,6 +31,12 @@
 - **Blockchain:** Solidity (Smart Contract).
 - **Library:** Web3.js (για επικοινωνία με το MetaMask).
 - **Network:** Sepolia Testnet.
+
+
+## Οδηγίες
+
+- **Δίκτυο:** Η εφαρμογή τρέχει αποκλειστικά στο Sepolia. Πρέπει να απενεργοποιήσετε τα άλλα δίκτυα στο MetaMask και να έχετε ενεργοποιημένο μόνο το Sepolia.
+
 
 
 ---
