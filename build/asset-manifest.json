@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.31c022ae.css",
-    "main.js": "/static/js/main.bf883a4d.js",
-    "static/js/453.6f00de0e.chunk.js": "/static/js/453.6f00de0e.chunk.js",
-    "index.html": "/index.html",
-    "main.31c022ae.css.map": "/static/css/main.31c022ae.css.map",
-    "main.bf883a4d.js.map": "/static/js/main.bf883a4d.js.map",
-    "453.6f00de0e.chunk.js.map": "/static/js/453.6f00de0e.chunk.js.map"
+    "main.css": "/BlockChain-auction-dapp/static/css/main.31c022ae.css",
+    "main.js": "/BlockChain-auction-dapp/static/js/main.a9448901.js",
+    "static/js/453.6f00de0e.chunk.js": "/BlockChain-auction-dapp/static/js/453.6f00de0e.chunk.js",
+    "index.html": "/BlockChain-auction-dapp/index.html",
+    "main.31c022ae.css.map": "/BlockChain-auction-dapp/static/css/main.31c022ae.css.map",
+    "main.a9448901.js.map": "/BlockChain-auction-dapp/static/js/main.a9448901.js.map",
+    "453.6f00de0e.chunk.js.map": "/BlockChain-auction-dapp/static/js/453.6f00de0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31c022ae.css",
-    "static/js/main.bf883a4d.js"
+    "static/js/main.a9448901.js"
   ]
 }
